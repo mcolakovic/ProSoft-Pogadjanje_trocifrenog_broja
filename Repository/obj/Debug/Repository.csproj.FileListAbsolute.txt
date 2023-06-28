@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Test3\Repository\bin\Debug\Repository.dll
+C:\Users\Administrator\source\repos\Test3\Repository\bin\Debug\Repository.pdb
+C:\Users\Administrator\source\repos\Test3\Repository\bin\Debug\Domain.dll
+C:\Users\Administrator\source\repos\Test3\Repository\bin\Debug\Domain.pdb
+C:\Users\Administrator\source\repos\Test3\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Test3\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Test3\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Test3\Repository\obj\Debug\Repository.dll
+C:\Users\Administrator\source\repos\Test3\Repository\obj\Debug\Repository.pdb
